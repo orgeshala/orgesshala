@@ -37,9 +37,6 @@ Currently focusing on **Full-Stack Web Development** while exploring **Artificia
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/orges-shala/)
 - 📍 Prishtina, Kosovo
 
-
-*Built through discipline. Driven by ambition. Defined by results.*
-
 ---
 
-*Always learning. Always building. Always improving.* 🚀
+*Built through discipline. Driven by ambition. Defined by results.*
