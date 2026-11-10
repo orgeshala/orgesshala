@@ -16,7 +16,7 @@ Currently focusing on **Full-Stack Web Development** while exploring **Artificia
 
 **Databases:** MySQL, Microsoft SQL Server (MSSQL)
 
-**Tools:** Git, GitHub, VS Code, Figma,XAMPP, Oracle VM VirtualBox, Cisco Packet Tracer
+**Tools:** Git, GitHub, VS Code, Figma, XAMPP, Oracle VM VirtualBox, Cisco Packet Tracer
 
 ---
 
